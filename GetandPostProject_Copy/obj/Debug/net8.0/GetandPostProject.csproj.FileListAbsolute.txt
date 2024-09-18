@@ -1,0 +1,14 @@
+/home/jcorpus/Documents/C#_Proyects/Directoio_de_mi_nuevoProyecto/GetandPostProject/bin/Debug/net8.0/GetandPostProject
+/home/jcorpus/Documents/C#_Proyects/Directoio_de_mi_nuevoProyecto/GetandPostProject/bin/Debug/net8.0/GetandPostProject.deps.json
+/home/jcorpus/Documents/C#_Proyects/Directoio_de_mi_nuevoProyecto/GetandPostProject/bin/Debug/net8.0/GetandPostProject.runtimeconfig.json
+/home/jcorpus/Documents/C#_Proyects/Directoio_de_mi_nuevoProyecto/GetandPostProject/bin/Debug/net8.0/GetandPostProject.dll
+/home/jcorpus/Documents/C#_Proyects/Directoio_de_mi_nuevoProyecto/GetandPostProject/bin/Debug/net8.0/GetandPostProject.pdb
+/home/jcorpus/Documents/C#_Proyects/Directoio_de_mi_nuevoProyecto/GetandPostProject/obj/Debug/net8.0/GetandPostProject.GeneratedMSBuildEditorConfig.editorconfig
+/home/jcorpus/Documents/C#_Proyects/Directoio_de_mi_nuevoProyecto/GetandPostProject/obj/Debug/net8.0/GetandPostProject.AssemblyInfoInputs.cache
+/home/jcorpus/Documents/C#_Proyects/Directoio_de_mi_nuevoProyecto/GetandPostProject/obj/Debug/net8.0/GetandPostProject.AssemblyInfo.cs
+/home/jcorpus/Documents/C#_Proyects/Directoio_de_mi_nuevoProyecto/GetandPostProject/obj/Debug/net8.0/GetandPostProject.csproj.CoreCompileInputs.cache
+/home/jcorpus/Documents/C#_Proyects/Directoio_de_mi_nuevoProyecto/GetandPostProject/obj/Debug/net8.0/GetandPostProject.dll
+/home/jcorpus/Documents/C#_Proyects/Directoio_de_mi_nuevoProyecto/GetandPostProject/obj/Debug/net8.0/refint/GetandPostProject.dll
+/home/jcorpus/Documents/C#_Proyects/Directoio_de_mi_nuevoProyecto/GetandPostProject/obj/Debug/net8.0/GetandPostProject.pdb
+/home/jcorpus/Documents/C#_Proyects/Directoio_de_mi_nuevoProyecto/GetandPostProject/obj/Debug/net8.0/GetandPostProject.genruntimeconfig.cache
+/home/jcorpus/Documents/C#_Proyects/Directoio_de_mi_nuevoProyecto/GetandPostProject/obj/Debug/net8.0/ref/GetandPostProject.dll
